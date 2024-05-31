@@ -27,12 +27,16 @@ Welcome to my little corner of the internet! I'm a data wizard by day and a codi
     Aspiring Chef: Experimenting with recipes – sometimes they turn out great, sometimes it's a learning experience.
     Traveler: Exploring new places, cultures, and cuisines. Always ready for the next adventure.
     BookWorm: Some Favourites and recommendations : Flow, Stoicism, Secret and Bhagavad Gita as it is (highly recommended). 
-
+    
+## 💡 Illuminating My Path:
+    DBT, Snowflake, RAG applications and Computer Vision. 
+    
 ## 🌐 Connect with Me:
 
     LinkedIn: [Vamshi Bairagoni](https://www.linkedin.com/in/vamshi-bairagoni/)
     Email: vamc526@mail.com
     GitHub: Well, you're already here! Check out my repos and let's collaborate on something awesome.
+    Learning
     Keep exploring, keep coding, and may the data be with you!
 
 
