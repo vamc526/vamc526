@@ -9,8 +9,8 @@
 
 Welcome to my little corner of the internet! I'm a data wizard by day and a coding sorcerer by night. My mission? To tame the wildest datasets and conjure up magical solutions with code. Here's a bit about my journey through the digital cosmos:
 
-
-
+## 🎓 Education: 
+Masters in Mathematics and Computer Science (Data Analytics)  <img src="https://github.com/vamc526/vamc526/assets/162745094/e50f7c5d-4a17-4008-8941-a43549760a07" alt="UIS" width="50" height="50"/> </a> - **University of Illinois Springfield**
 
 
 <h3 align="left">Languages and Tools:</h3>
