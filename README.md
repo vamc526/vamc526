@@ -2,7 +2,7 @@
 
                                                             
 
-<h3 align="center"> Data Scientist </h3>
+<h3 align="center"> Data Scientist | Data Engineer </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vamc526&label=Profile%20views&color=0e75b6&style=flat" alt="vamc526" /> </p>
 
