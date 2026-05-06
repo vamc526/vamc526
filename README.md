@@ -52,10 +52,7 @@ Bachelor's in Computer Science and Engineering - **St.Martin's Engineering Colle
 
  DBT, Snowflake, RAG applications and Computer Vision. 
     
-## 🌐 Connect with Me:
 
- LinkedIn: [Vamshi Bairagoni](https://www.linkedin.com/in/vamshi-bairagoni/)
- Email: vamc526@mail.com
  GitHub: Well, you're already here! Check out my repos and let's collaborate on something awesome.
 
 ## Learning,Keep exploring, keep coding, and may the data be with you!
